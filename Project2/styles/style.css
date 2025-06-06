@@ -554,6 +554,11 @@ video {
   display: none;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .ml-10 {
   margin-left: 2.5rem;
 }
@@ -594,6 +599,10 @@ video {
   margin-top: 1.25rem;
 }
 
+.mt-\[10rem\] {
+  margin-top: 10rem;
+}
+
 .flex {
   display: flex;
 }
@@ -632,6 +641,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[500px\] {
+  width: 500px;
 }
 
 .cursor-pointer {
@@ -676,6 +689,10 @@ video {
 
 .rounded-lg {
   border-radius: 0.5rem;
+}
+
+.rounded-xl {
+  border-radius: 0.75rem;
 }
 
 .rounded-t-xl {
@@ -794,6 +811,10 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
 }
 
 .shadow-lg {
