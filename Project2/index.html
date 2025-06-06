@@ -43,11 +43,57 @@
     </nav>
 
     <header
-      class="hero flex md:flex-col lg:flex-row justify-between items-center mt-28"
+      class="hero flex md:flex-col lg:flex-row justify-around items-center mt-28"
     >
-  
-      <div><img src="images/hero.jpg" alt=""></div>
+      <div
+        class="w-[600px] rounded-md overflow-hidden shadow-lg rounded-t-[60rem]"
+      >
+        <img src="images/hero.jpg" alt="" />
+      </div>
 
-  </header>
+      <div class="mr-10 ml-10 md:mt-0 sm:mt-[6rem]">
+        <h1 class="text-5xl font-bold mb-10">
+          Web <span class="text-[#1bc8d3]">Agency</span>
+        </h1>
+        <p class="w-96 mb-10">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Exercitationem, adipisci dolor cupiditate molestias et cumque voluptas
+          necessitatibus eaque mollitia perspiciatis saepe tempora autem eos
+          quam incidunt assumenda voluptate reiciendis doloribus.
+        </p>
+        <div class="btns-container">
+          <button class="bg-[#1bc8d3] py-2 px-10 text-white mr-5 mb-5">
+            Services
+          </button>
+          <button class="p-2 border-b-2 font-bold ml-6 mb-5 border-black">
+            Learn More
+          </button>
+        </div>
+        <div class="flex cursor-pointer justify-around md:flex-row">
+          <div
+            class="flex flex-col rounded-lg justify-center items-center p-2 mr-5 mt-5 bg-[#1bc8d3]"
+          >
+            <h1 class="mt-5">
+              <span class="font-bold">5 star</span>
+              Experience
+            </h1>
+            <p class="text-center w-60 p-2">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Temporibus corporis esse
+            </p>
+          </div>
+
+          <div
+            class="flex flex-col rounded-lg justify-center w-60 items-center p-2 mr-5 mt-5 bg-[#1bc8d3] bg-opacity-20"
+          >
+            <h1 class="mt-5">Make <span class="font-bold">Your</span> Offer</h1>
+            <p class="text-center w-60 p-2">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Dignissimos, esse? Ea amet, blanditiis soluta modi ipsam
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
   </body>
 </html>
