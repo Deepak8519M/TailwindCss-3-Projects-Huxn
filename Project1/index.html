@@ -7,19 +7,23 @@
     <link rel="stylesheet" href="./styles/style.css" />
   </head>
   <body class="bg-[#fbf7ee]">
-    <nav class="flex justify-around">
-      <div class="logo mt-5">Branding</div>
-      <div class="nav-imgs mt-5">
+    <nav
+      class="flex justify-around items-center bg-white py-5 shadow-md sticky z-10 top-0"
+    >
+      <div class="logo text-[14px] md:text-[28px]">Branding</div>
+      <div class="nav-imgs text-[14px] md:text-[28px]">
         <img src="Images/SVG/SVG 1.svg" class="inline ml-10" />
         <img src="Images/SVG/SVG 2.svg" class="inline ml-10" />
         <img src="Images/SVG/SVG 3.svg" class="inline ml-10" />
       </div>
     </nav>
 
-    <header class="mt-20 flex justify-around bg-red-400">
+    <header
+      class="mt-5 md:mt-20 flex flex-col items-center justify-center md:flex-row justify-around"
+    >
       <div class="card-one">
-        <h1 class="font-bold mb-5 text-3xl">Spring/Summer Vibes</h1>
-        <p class="w-[340px] font-light">
+        <h1 class="font-bold mb-5 text-2xl md:text-3xl">Spring/Summer Vibes</h1>
+        <p class="w-[240px] md:w-[340px] font-light text-justify">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda
           dolor, deleniti officiis, corporis nulla atque, recusandae molestiae
           aliquid minima nostrum ipsum voluptates quas numquam aliquam quaerat
@@ -28,16 +32,16 @@
         <img
           src="Images/mohamad-khosravi-DuY4JP2M34Q-unsplash.jpg"
           alt=""
-          class="w-[300px] mt-8"
+          class="w-[240px] md:w-[300px] mt-8"
         />
       </div>
       <div class="card-two">
         <img
           src="Images/austin-wade-d2s8NQ6WD24-unsplash.jpg"
           alt=""
-          class="w-[300px] mt-8 rounded-t-[40rem]"
+          class="w-[240px] md:w-[300px] mt-8 rounded-t-[40rem]"
         />
-        <p class="w-[340px] mb-5 mt-3 font-light">
+        <p class="w-[240px] text-justify md:w-[340px] mb-5 mt-3 font-light">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda
           dolor, deleniti officiis, corporis nulla atque, recusandae molestiae
           aliquid minima nostrum ipsum voluptates quas numquam aliquam quaerat
@@ -52,13 +56,15 @@
       </div>
     </header>
 
-    <section class="flex justify-around pt-20">
-      <div class="flex flex-col justify-around items-start">
-        <h1 class="font-bold mb-4 text-3xl">
+    <section
+      class="flex flex-col items-center justify-center gap-10 md:flex-row justify-around pt-20"
+    >
+      <div class="flex flex-col gap-10 justify-around items-start">
+        <h1 class="font-bold mb-4 text-2xl md:text-3xl">
           An Industrial Take <br />
           On Street Wear
         </h1>
-        <p class="w-[340px] mb-4 font-light">
+        <p class="w-[240px] md:w-[340px] mb-4 text-justify font-light">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
           laudantium exercitationem non fuga, cumque enim commodi suscipitnon
           fuga, cumque enim commodi suscipit similique labore soluta placeat
@@ -73,39 +79,62 @@
 
       <img
         src="Images/austin-wade-iQn82USu8gs-unsplash.jpg"
-        class="w-[300px] mb-5 rounded"
+        class="w-[300px] md:w-[300px] mb-5 rounded-[40rem]"
         alt=""
       />
     </section>
 
-    <section class="flex justify-center items-center mt-20 p-10">
-      <div class="p-10 ml-10 border-[#af7452] border-2 rounded">
+    <section
+      class="flex flex-col md:flex-row gap-2 justify-center items-center mt-20 p-10"
+    >
+      <div
+        class="p-10 md:ml-10 cursor-pointer border-2 border-[#af7452] rounded hover:bg-[#af7452] hover:text-white transition-all duration-300 ease-in-out transform hover:-translate-y-5 group"
+      >
         <h1 class="font-bold mb-6">Buy Now, Pay later</h1>
-        <p class="font-thin w-[14rem]">
+        <p class="font-thin w-[10rem] md:w-[14rem]">
           0% interest financing for 6 months on purchases over $99.
         </p>
         <button
-          class="border border-[#af7452] mt-3 text-[#af7452] pt-2 pb-2 pl-5 pr-5"
+          class="border border-[#af7452] mt-3 text-[#af7452] pt-2 pb-2 pl-5 pr-5 group-hover:text-white group-hover:bg-[#af7452] transition-all duration-300 ease-in-out group-hover:border-white"
         >
           Shop Now
         </button>
       </div>
-      <div class="p-10 ml-10 border-[#af7452] border-2 rounded">
+      <div
+        class="p-10 md:ml-10 cursor-pointer border-2 border-[#af7452] rounded hover:bg-[#af7452] hover:text-white transition-all duration-300 ease-in-out transform hover:-translate-y-5 group"
+      >
         <h1 class="font-bold mb-6">CashBack Rewards</h1>
-        <p class="font-thin w-[14rem]">exciting cashbacks on every purchase.</p>
+        <p class="font-thin w-[10rem] md:w-[14rem]">
+          exciting cashbacks on every purchase.
+        </p>
         <button
-          class="border border-[#af7452] mt-3 text-[#af7452] pt-2 pb-2 pl-5 pr-5"
+          class="border border-[#af7452] mt-3 text-[#af7452] pt-2 pb-2 pl-5 pr-5 group-hover:text-white group-hover:bg-[#af7452] transition-all duration-300 ease-in-out group-hover:border-white"
         >
           Shop Now
         </button>
       </div>
-      <div class="p-10 ml-10 border-[#af7452] border-2 rounded">
+      <div
+        class="p-10 md:ml-10 cursor-pointer border-2 border-[#af7452] rounded hover:bg-[#af7452] hover:text-white transition-all duration-300 ease-in-out transform hover:-translate-y-5 group"
+      >
         <h1 class="font-bold mb-6">Secure Payments</h1>
-        <p class="font-thin w-[14rem]">
+        <p class="font-thin w-[10rem] md:w-[14rem]">
           Secure and easy payment options with multiple methods.
         </p>
         <button
-          class="border border-[#af7452] mt-3 text-[#af7452] pt-2 pb-2 pl-5 pr-5"
+          class="border border-[#af7452] mt-3 text-[#af7452] pt-2 pb-2 pl-5 pr-5 group-hover:text-white group-hover:bg-[#af7452] transition-all duration-300 ease-in-out group-hover:border-white"
+        >
+          Shop Now
+        </button>
+      </div>
+      <div
+        class="p-10 md:ml-10 cursor-pointer border-2 border-[#af7452] rounded hover:bg-[#af7452] hover:text-white transition-all duration-300 ease-in-out transform hover:-translate-y-5 group"
+      >
+        <h1 class="font-bold mb-6">Secure Payments</h1>
+        <p class="font-thin w-[10rem] md:w-[14rem]">
+          Secure and easy payment options with multiple methods.
+        </p>
+        <button
+          class="border border-[#af7452] mt-3 text-[#af7452] pt-2 pb-2 pl-5 pr-5 group-hover:text-white group-hover:bg-[#af7452] transition-all duration-300 ease-in-out group-hover:border-white"
         >
           Shop Now
         </button>
@@ -113,3 +142,4 @@
     </section>
   </body>
 </html>
+make this much better
