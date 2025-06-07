@@ -1,11 +1,11 @@
-# 📸 Photography Portfolio Site
+# 📸 `Photography Portfolio Site`
 
 A clean and elegant photography portfolio landing page.  
 Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing sections.
 
 ---
 
-## ✨ Features
+## ✨ `Features`
 
 - 🖥️ Dual-image hero layout with text emphasis
 - 📱 Fully responsive design for desktop and mobile
@@ -16,7 +16,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 
 ---
 
-## 📌 Sections Overview
+## 📌 `Sections Overview`
 
 1. **Navbar** – Centered menu with active link underline and hover effects
 2. **Header** – Two-column layout featuring images and headline text
@@ -27,7 +27,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 
 ---
 
-## 🎨 Design Highlights
+## 🎨 `Design Highlights`
 
 - **Primary Color:** `#137548` (forest green)
 - **Typography:** Tailwind’s default sans-serif with bold headings
@@ -36,7 +36,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 
 ---
 
-## 📁 Folder Structure
+## 📁 `Folder Structure`
 
 ```bash
 📁 photography-portfolio/
@@ -60,7 +60,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 
 ```
 
-## 🧱 Built With
+## 🧱 `Built With`
 
 - ✅ HTML5
 - ✅ Tailwind CSS
@@ -69,7 +69,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 
 ---
 
-## 🙌 Creator
+## 🙌 `Creator`
 
 Crafted with 💙 by **Deepak**  
 Feel free to fork, customize, and build upon this project!
