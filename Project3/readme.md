@@ -56,3 +56,21 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 │
 ├── 📄 index.html            # Main project HTML file
 └── 📄 README.md             # Project documentation
+
+
+```
+
+
+## 🧱 Built With
+
+- ✅ HTML5  
+- ✅ Tailwind CSS  
+- ✅  Flexbox for layout and responsive design 
+- ✅ Smooth CSS transitions and hover effects
+
+---
+
+## 🙌 Creator
+
+Crafted with 💙 by **[Deepak]**  
+Feel free to fork, customize, and build upon this project!
