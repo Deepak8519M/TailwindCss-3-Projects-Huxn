@@ -6,13 +6,13 @@ This repository contains three distinct web projects demonstrating clean design,
 
 ## 📌 `Projects Overview`
 
-### 1. `Branding Site  `
+### 1. `Branding Site`
 A sleek and professional branding website showcasing company identity with a modern, minimalist design. Features include smooth navigation, bold typography, and engaging visuals.
 
-### 2. `Web Agency  `
+### 2. `Web Agency`
 A clean, creative agency landing page designed to highlight services, skills, and projects. Built with a dual-column hero layout, smooth hover effects, and a responsive multi-section design.
 
-### 3. `Photography Website  `
+### 3. `Photography Website`
 A visually rich photography portfolio showcasing images, founder information, and recent projects. Designed with a focus on large imagery, elegant typography, and smooth transitions.
 
 ---
