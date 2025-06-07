@@ -623,6 +623,14 @@ video {
   margin-top: 80px;
 }
 
+.mt-14 {
+  margin-top: 3.5rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .flex {
   display: flex;
 }
@@ -772,6 +780,43 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-\[30px\] {
+  font-size: 30px;
+}
+
+.text-\[25px\] {
+  font-size: 25px;
+}
+
+.text-\[22px\] {
+  font-size: 22px;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.text-\[20rem\] {
+  font-size: 20rem;
+}
+
+.text-\[40px\] {
+  font-size: 40px;
+}
+
+.text-\[35px\] {
+  font-size: 35px;
+}
+
+.text-\[27px\] {
+  font-size: 27px;
+}
+
+.text-\[23px\] {
+  font-size: 23px;
 }
 
 .font-bold {
