@@ -36,7 +36,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
 
 ---
 
-## Folder Structure
+# 📁 `Folder Structure`
 
 ```bash 
 
