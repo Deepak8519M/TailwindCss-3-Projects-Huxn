@@ -50,3 +50,21 @@ Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
 Crafted with 💙 by **[Deepak]**  
 Feel free to fork, customize, and build upon this project!
 
+
+Web-Agency/
+├── images/                # All image assets used in the site
+│   ├── hero.jpg
+│   ├── section-two.jpg
+│   ├── alex-knight.jpg
+│   ├── carlos-muza.jpg
+│   ├── davide-baraldi.jpg
+│   ├── igor-miske.jpg
+│   ├── kevin-bhagat.jpg
+│   └── nathan-da-silva.jpg
+│
+├── styles/
+│   └── style.css          # Tailwind compiled CSS file
+│
+├── index.html             # Main HTML file
+└── README.md              # Project documentation
+
