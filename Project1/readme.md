@@ -34,7 +34,32 @@ Built using **HTML5** and **Tailwind CSS** for clean structure and stylish respo
 - Rounded cards with elegant border transitions
 
 ---
+# 📁 `Folder Structure`
 
+```bash
+
+
+📁 Branding-Site
+│
+├── 📄 index.html
+│
+├── 📁 styles
+│   └── 📄 style.css
+│
+├── 📁 images
+│   ├── 🖼️ mohammad-khosravi-DuY4JP2M34Q-unsplash.jpg
+│   ├── 🖼️ austin-wade-d2s8NQ6WD24-unsplash.jpg
+│   ├── 🖼️ austin-wade-iQn82USu8gs-unsplash.jpg
+│   └── 📁 SVG
+│       ├── 🖼️ SVG 1.svg
+│       ├── 🖼️ SVG 2.svg
+│       └── 🖼️ SVG 3.svg
+│
+└── 📄 README.md
+
+
+
+```
 ## 🧠 Built With
 
 - HTML5
