@@ -49,7 +49,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
 
 Crafted with 💙 by **[Deepak]**  
 Feel free to fork, customize, and build upon this project!
-
+```bash 
 
 Web-Agency/
 ├── images/                # All image assets used in the site
@@ -66,5 +66,5 @@ Web-Agency/
 │   └── style.css          # Tailwind compiled CSS file
 │
 ├── index.html             # Main HTML file
-└── README.md              # Project documentation
+└── README.md              # Project documentation```
 
