@@ -69,7 +69,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
 
 ## 🙌 Creator
 
-Crafted with 💙 by **[Deepak]**  
+Crafted with 💙 by **Deepak**  
 Feel free to fork, customize, and build upon this project!
 
 

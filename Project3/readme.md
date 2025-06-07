@@ -7,31 +7,31 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 
 ## ✨ Features
 
-- 🖥️ Dual-image hero layout with text emphasis  
-- 📱 Fully responsive design for desktop and mobile  
-- 🌈 Smooth hover underline transitions on navigation links  
-- 🧠 Clear content sections: About Founder, Free Courses, Recent Projects  
-- 🎯 Gallery-style project showcase with captions  
+- 🖥️ Dual-image hero layout with text emphasis
+- 📱 Fully responsive design for desktop and mobile
+- 🌈 Smooth hover underline transitions on navigation links
+- 🧠 Clear content sections: About Founder, Free Courses, Recent Projects
+- 🎯 Gallery-style project showcase with captions
 - 📦 Footer with multi-column informational links
 
 ---
 
 ## 📌 Sections Overview
 
-1. **Navbar** – Centered menu with active link underline and hover effects  
-2. **Header** – Two-column layout featuring images and headline text  
-3. **What is Photography?** – Text explanation paired with large heading  
-4. **Founder Section** – About the founder with an image overlay effect  
-5. **Recent Projects** – Responsive gallery showcasing recent works  
+1. **Navbar** – Centered menu with active link underline and hover effects
+2. **Header** – Two-column layout featuring images and headline text
+3. **What is Photography?** – Text explanation paired with large heading
+4. **Founder Section** – About the founder with an image overlay effect
+5. **Recent Projects** – Responsive gallery showcasing recent works
 6. **Footer** – Three-column layout with site menu and informational links
 
 ---
 
 ## 🎨 Design Highlights
 
-- **Primary Color:** `#137548` (forest green)  
-- **Typography:** Tailwind’s default sans-serif with bold headings  
-- **Styling:** Soft image overlays, consistent spacing, smooth transitions  
+- **Primary Color:** `#137548` (forest green)
+- **Typography:** Tailwind’s default sans-serif with bold headings
+- **Styling:** Soft image overlays, consistent spacing, smooth transitions
 - **Layout:** Flexbox with responsive adjustments for mobile devices
 
 ---
@@ -60,17 +60,16 @@ Built using **HTML5** and **Tailwind CSS** with responsive, visually appealing s
 
 ```
 
-
 ## 🧱 Built With
 
-- ✅ HTML5  
-- ✅ Tailwind CSS  
-- ✅  Flexbox for layout and responsive design 
+- ✅ HTML5
+- ✅ Tailwind CSS
+- ✅ Flexbox for layout and responsive design
 - ✅ Smooth CSS transitions and hover effects
 
 ---
 
 ## 🙌 Creator
 
-Crafted with 💙 by **[Deepak]**  
+Crafted with 💙 by **Deepak**  
 Feel free to fork, customize, and build upon this project!

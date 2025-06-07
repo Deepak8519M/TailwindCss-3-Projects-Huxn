@@ -47,7 +47,7 @@ Built using **HTML5** and **Tailwind CSS** for clean structure and stylish respo
 
 ## 🙌 Creator
 
-Crafted with 💛 by [Deepak]
+Crafted with 💛 by **Deepak**
 Feel free to customize, remix, and build your own version!
 
 
