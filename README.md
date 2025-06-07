@@ -1,46 +1,45 @@
-# 🗂️ My Web Development Projects
+# 🗂️ My Web Projects Collection
 
-This repository contains three web projects built with **HTML5**, **CSS**, and **Tailwind CSS**.  
-Each project demonstrates responsive design, clean layouts, and modern UI techniques.
-
----
-
-## 📁 Projects Overview
-
-### 1. Project 1: Simple Portfolio Site  
-A clean personal portfolio site showcasing skills and projects with a minimalist design.
-
-### 2. Project 2: E-commerce Hoodie Store  
-A responsive hoodie e-commerce website featuring product listings and a simple shopping layout.
-
-### 3. Project 3: Photography Portfolio  
-A modern photography portfolio site with image galleries, founder info, and recent projects.
+This repository contains three distinct web projects demonstrating clean design, responsiveness, and modern UI using **HTML5** and **Tailwind CSS**.
 
 ---
 
-## 📂 Folder Structures
+## 📌 Projects Overview
 
-### Project 1: Portfolio
+### 1. Branding Site  
+A sleek and professional branding website showcasing company identity with a modern, minimalist design. Features include smooth navigation, bold typography, and engaging visuals.
 
-```bash
-📁 project1-portfolio/
-├── 📁 images/  
-├── 📁 styles/  
-│   └── style.css  
-├── index.html  
-└── README.md
+### 2. Web Agency  
+A clean, creative agency landing page designed to highlight services, skills, and projects. Built with a dual-column hero layout, smooth hover effects, and a responsive multi-section design.
 
+### 3. Photography Website  
+A visually rich photography portfolio showcasing images, founder information, and recent projects. Designed with a focus on large imagery, elegant typography, and smooth transitions.
 
-📁 project2-hoodie-store/
-├── 📁 images/  
-├── 📁 styles/  
-│   └── style.css  
-├── index.html  
-└── README.md
-```
-📁 project3-photography/
-├── 📁 images/  
-├── 📁 styles/  
-│   └── output.css  
-├── index.html  
-└── README.md
+---
+
+## ✨ Features Across Projects
+
+- Responsive design adapting to all screen sizes  
+- Clean and modern UI with consistent color schemes  
+- Smooth hover and transition effects for navigation and buttons  
+- Organized content sections for easy navigation  
+- Use of Flexbox and Grid for layout management  
+- Typography that balances readability and style  
+
+---
+
+## 🧱 Technologies Used
+
+- HTML5  
+- Tailwind CSS  
+- CSS Flexbox & Grid  
+- Responsive and Mobile-first design principles  
+
+---
+
+## 🙌 Creator
+
+Made with ❤️ by **Deepak Mallareddy**  
+Feel free to explore, customize, and build upon these projects!
+
+---
