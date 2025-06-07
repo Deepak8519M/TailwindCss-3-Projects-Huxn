@@ -1,4 +1,4 @@
-# 🌿 Branding Site – Spring/Summer Vibes
+# 🌿 Branding Site 
 
 A soft and modern branding site inspired by fashion/lifestyle themes.  
 Built using **HTML5** and **Tailwind CSS** for clean structure and stylish responsiveness.
@@ -47,7 +47,7 @@ Built using **HTML5** and **Tailwind CSS** for clean structure and stylish respo
 
 ## 🙌 Creator
 
-Crafted with 💛 by **[Your Name]**  
+Crafted with 💛 by [Deepak]
 Feel free to customize, remix, and build your own version!
 
 
