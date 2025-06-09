@@ -1,7 +1,7 @@
-# 💼 Web Agency Site
+# 💼 `Web Agency Site`
 
 A clean, professional, and creative agency landing page.  
-Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
+Built using `**HTML5**` and `**Tailwind CSS**` with responsive and elegant sections.
 
 ---
 
