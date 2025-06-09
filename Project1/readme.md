@@ -1,7 +1,7 @@
 # 🌿 `Branding Site`
 
 A soft and modern branding site inspired by fashion/lifestyle themes.  
-Built using **HTML5** and **Tailwind CSS** for clean structure and stylish responsiveness.
+Built using `**HTML5**` and `**Tailwind CSS**` for clean structure and stylish responsiveness.
 
 ---
 
@@ -11,7 +11,7 @@ Built using **HTML5** and **Tailwind CSS** for clean structure and stylish respo
 - 📱 Fully `responsive design`
 - 🌈 Smooth transitions on hover
 - 🧥 Card-based layout for clear sections
-- 💳 Interactive promo offers
+- 💳 Interactive `promo offers`
 
 ---
 
@@ -19,10 +19,10 @@ Built using **HTML5** and **Tailwind CSS** for clean structure and stylish respo
 
 ## 📸 `Sections`
 
-1. **Navbar** – Sticky with brand title and icons
-2. **Hero** – Two-column layout with image + description
+1. **Navbar** – Sticky with `brand title` and `icons`
+2. **Hero** – Two-column layout with `image + description`
 3. **Highlight Section** – Full-width visual + text
-4. **Promo Cards** – Interactive cards with hover effects
+4. **Promo Cards** – Interactive cards with `hover effects`
 
 ---
 
@@ -31,7 +31,7 @@ Built using **HTML5** and **Tailwind CSS** for clean structure and stylish respo
 - Background: `#fbf7ee`
 - Accent Color: `#af7452`
 - Fonts: Tailwind default sans-serif
-- Rounded cards with elegant border transitions
+- `Rounded cards` with `elegant border` transitions
 
 ---
 # 📁 `Folder Structure`
