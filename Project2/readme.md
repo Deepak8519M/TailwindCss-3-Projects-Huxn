@@ -9,10 +9,10 @@ Built using `**HTML5**` and `**Tailwind CSS**` with responsive and elegant secti
 
 - 🖥️ `Dual-column` Hero layout with `CTA`
 - 📱 Fully responsive design across devices
-- 🌈 Smooth hover transitions on nav and buttons
-- 🧠 Organized sections: Skills, Services, Projects
-- 🎯 Project gallery with visual previews
-- 📦 Footer with multi-column navigation
+- 🌈 `Smooth hover transitions` on nav and buttons
+- 🧠 Organized sections: `Skills, Services, Projects`
+- 🎯 `Project gallery` with visual previews
+- 📦 Footer with `multi-column` navigation
 
 ---
 
@@ -67,9 +67,9 @@ Built using `**HTML5**` and `**Tailwind CSS**` with responsive and elegant secti
 
 ---
 
-## 🙌 Creator
+## 🙌 `Creator`
 
-Crafted with 💙 by **Deepak**  
+Crafted with 💙 by `**Deepak**`
 Feel free to fork, customize, and build upon this project!
 
 
