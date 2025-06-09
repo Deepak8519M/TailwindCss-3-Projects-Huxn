@@ -60,7 +60,7 @@ Built using `**HTML5**` and `**Tailwind CSS**` for clean structure and stylish r
 
 
 ```
-## 🧠 Built With
+## 🧠 `Built With`
 
 - HTML5
 - Tailwind CSS
@@ -69,7 +69,7 @@ Built using `**HTML5**` and `**Tailwind CSS**` for clean structure and stylish r
 
 ---
 
-## 🙌 Creator
+## 🙌 `Creator`
 
-Crafted with 💛 by **Deepak**
-Feel free to customize, remix, and build your own version!
+Crafted with 💛 by `**Deepak**`
+Feel free to customize, remix, and `build your` own version!
