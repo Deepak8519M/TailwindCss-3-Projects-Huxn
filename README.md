@@ -33,7 +33,7 @@ A `visually rich photography portfolio` showcasing images, founder information, 
 - HTML5  
 - Tailwind CSS  
 - CSS Flexbox & Grid  
-- Responsive and Mobile-first design principles  
+- `Responsive` and `Mobile-first design` principles  
 
 ---
 
