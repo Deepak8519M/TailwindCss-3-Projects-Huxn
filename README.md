@@ -1,6 +1,6 @@
 # 🗂️ `Tailwind Css 3 Projects`
 
-This repository contains three distinct web projects demonstrating clean design, responsiveness, and modern UI using **HTML5** and **Tailwind CSS**.
+This repository contains three distinct `web projects` demonstrating clean `design`, `responsiveness`, and `modern UI` using **`HTML5`** and **`Tailwind CSS`**.
 
 ---
 
