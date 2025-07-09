@@ -23,7 +23,7 @@ A `visually rich photography portfolio` showcasing images, founder information, 
 - `Clean` and `modern UI` with consistent color schemes  
 - Smooth hover and transition effects for navigation and buttons  
 - Organized `content sections` for easy navigation  
-- Use of Flexbox and Grid for layout management  
+- Use of Flexbox and Grid for `layout management`
 - Typography that `balances readability` and `style`
 
 ---
