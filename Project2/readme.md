@@ -1,33 +1,33 @@
-# 💼 Web Agency Site
+# 💼 `Web Agency Site`
 
 A clean, professional, and creative agency landing page.  
-Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
+Built using `**HTML5**` and `**Tailwind CSS**` with responsive and elegant sections.
 
 ---
 
-## ✨ Features
+## ✨ `Features`
 
-- 🖥️ Dual-column Hero layout with CTA
+- 🖥️ `Dual-column` Hero layout with `CTA`
 - 📱 Fully responsive design across devices
-- 🌈 Smooth hover transitions on nav and buttons
-- 🧠 Organized sections: Skills, Services, Projects
-- 🎯 Project gallery with visual previews
-- 📦 Footer with multi-column navigation
+- 🌈 `Smooth hover transitions` on nav and buttons
+- 🧠 Organized sections: `Skills, Services, Projects`
+- 🎯 `Project gallery` with visual previews
+- 📦 Footer with `multi-column` navigation
 
 ---
 
-## 📌 Sections Overview
+## 📌 `Sections Overview`
 
-1. **Navbar** – Sticky menu with underline effect on hover  
-2. **Hero Section** – Image + text with call-to-action buttons  
+1. **Navbar** – `Sticky menu` with `underline effect` on hover  
+2. **Hero Section** – `Image + text` with `call-to-action` buttons  
 3. **Skills Section** – Split layout: text & image  
-4. **Services Section** – Grid layout with colorful service cards  
+4. **Services Section** – `Grid layout` with colorful service cards  
 5. **Projects Section** – Responsive image gallery  
-6. **Footer** – 3-column layout with useful links
+6. **Footer** – `3-column layout` with useful links
 
 ---
 
-## 🎨 Design Highlights
+## 🎨 `Design Highlights`
 
 - **Primary Color:** `#1bc8d3`
 - **Accent Backgrounds:** `#292a2b`, `#fbf7ee`
@@ -36,7 +36,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
 
 ---
 
-## Folder Structure
+# 📁 `Folder Structure`
 
 ```bash 
 
@@ -58,7 +58,7 @@ Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
 └── 📄 README.md               # Project documentation
 ```
 
-## 🧱 Built With
+## 🧱 `Built With`
 
 - ✅ HTML5  
 - ✅ Tailwind CSS  
@@ -67,9 +67,9 @@ Built using **HTML5** and **Tailwind CSS** with responsive and elegant sections.
 
 ---
 
-## 🙌 Creator
+## 🙌 `Creator`
 
-Crafted with 💙 by **Deepak**  
+Crafted with 💙 by `Deepak`
 Feel free to fork, customize, and build upon this project!
 
 
