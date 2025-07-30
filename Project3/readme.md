@@ -5,6 +5,10 @@ Built using **HTML5** and **Tailwind CSS** with `responsive, visually appealing 
 
 ---
 
+## `Website Preview`
+
+![Preview](./twCssProj3.png)
+
 ## ✨ `Features`
 
 - 🖥️ `Dual-image hero` layout with text emphasis
